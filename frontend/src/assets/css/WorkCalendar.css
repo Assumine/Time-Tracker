@@ -1,0 +1,618 @@
+/* WorkCalendar.css - 日历组件特定样式 */
+
+/* 自定义变量 - 使用用户提供的五种颜色 */
+:root {
+  --primary-color: #3174AD;
+  /* 主色调 - 蓝色 跳转至今日*/
+  --secondary-color: #1E3663;
+  /* 辅助色 - 深蓝色 标题栏 */
+  --accent-color: #3174AD;
+  /* 强调色 - 紫蓝色 时间段内框背景*/
+  --light-color: #BDD8FF;
+  /* 亮色 - 浅蓝色  首行标题背景*/
+  --light-accent: #A7A7D1;
+  /* 浅强调色 - 淡紫色 滚动条颜色*/
+  --text-primary: #1E3663;
+  /* 主要文字颜色  首行标题文字*/
+  --text-secondary: #5D76BA;
+  /* 次要文字颜色 时间段标题颜色*/
+  --border-color: #A7A7D1;
+  /* 外围边框颜色 */
+  --success-color: #1E3663;
+  /* 成功颜色 */
+  --error-color: #ff4d4f;
+  /* 错误颜色 */
+}
+
+/* 日历容器 */
+.calendar-container {
+  position: relative;
+  height: 70vh;
+  width: 68vw;
+  margin: 0 auto;
+  /* 居中显示 */
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 日历头部样式 */
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 16px 24px;
+  background-color: var(--secondary-color);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(30, 54, 99, 0.15);
+}
+
+/* 日历标题 */
+.calendar-header h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+  /*标题颜色*/
+  letter-spacing: 0.5px;
+}
+
+/*跳转至今日按钮*/
+.calendar-header button {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  min-width: 120px;
+}
+
+/* 跳转至今日按钮悬停样式 */
+.calendar-header button:hover {
+  background-color: var(--light-color);
+  color: var(--secondary-color);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(61, 145, 204, 0.3);
+}
+
+/* 跳转至今日按钮点击样式 */
+.calendar-header button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(61, 145, 204, 0.3);
+}
+.rbc-toolbar {
+   margin-bottom: 0px!important ;
+    position: relative;
+    height: 0px;
+    display: revert;
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    align-items: center;
+    /* margin-bottom: 10px; */
+    font-size: 16px;
+    z-index: 200;
+}
+
+.rbc-btn-group + .rbc-btn-group, .rbc-btn-group + button {
+  padding: 0px 0px 0 53.4vw;
+  margin-left: 10px;
+}
+.rbc-toolbar .rbc-toolbar-label {
+  padding: 0px 0px 0 53vw !important;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.rbc-toolbar button {
+      font-size: 15px;
+    color: #373a3c;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    text-size-adjust: revert;
+    vertical-align: middle;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+
+/*//////////////////////////////////////////////////////*/
+
+
+
+/* 自定义事件样式 */
+.custom-event {
+  position: relative;
+  background-color: var(--accent-color);
+  border-radius: 8px;
+  padding: 8px 12px;
+  color: white;
+  /* 时间段方框文字颜色 */
+  font-size: 13px;
+  user-select: none;
+  overflow: hidden;
+  height: 100%;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.custom-event:hover {
+  box-shadow: 0 6px 16px rgba(93, 118, 186, 0.3);
+  transform: translateY(-2px);
+  background-color: var(--primary-color);
+}
+
+/* 时间段内容 */
+.event-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* 时间段标题 */
+.event-title {
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+/* 时间容器 - 用于放置删除按钮和时间显示 */
+.event-time-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+/* 时间段内框时间显示 */
+.event-time {
+  font-size: 12px;
+  opacity: 0.9;
+  font-weight: 400;
+}
+
+/* 删除按钮样式 - 与时间并排显示，位于图层之上 */
+.custom-event .delete-btn {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  opacity: 1;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  z-index: 7;
+}
+
+/* 首行特殊时间块（背景用互补/对比色 #ad6a31，文字白色） */
+.custom-event.header-row {
+  background-color: #31ad4c !important;
+  /* 互补/对比色 */
+  color: #ffffff !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/*////////////////表头////////////////////*/
+.rbc-time-header {
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    border-bottom: 1px solid #ddd;
+    
+}
+
+.rbc-time-view-resources .rbc-time-header-content {
+  min-width: 0 !important;
+}
+
+/* 第一行高度为基准的1.5倍 */
+.rbc-row.rbc-row-resource {
+  min-height: 62px;
+  flex: 5 !important;
+}
+
+/* 第二行高度为基准的1倍 */
+.rbc-row.rbc-time-header-cell {
+  flex: 7 !important;
+}
+
+/* 第三行高度为基准的1倍 */
+.rbc-allday-cell {
+  flex: 7 !important;
+}
+
+/* 确保每行内的元素能够充分利用空间 */
+.rbc-row-content .rbc-row > * {
+  height: 100%;
+  min-height: 60px; /* 确保有最小高度，避免内容被压缩 */
+}
+
+/* 确保事件内部文本使用白色（覆盖 rbc 默认样式） */
+.custom-event.header-row .event-title,
+.custom-event.header-row .event-time {
+  color: #ffffff !important;
+}
+
+/* 保持删除按钮可见（如果你要在 header-row 中隐藏/不同样式，可改这里） */
+.custom-event.header-row .delete-btn {
+  color: #ffffff;
+}
+
+/* 可选：为 header-row 增加更高 z-index（避免被覆盖） */
+.custom-event.header-row {
+  z-index: 50;
+}
+
+.delete-btn:hover {
+  background-color: rgba(255, 0, 0, 0.7);
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(255, 0, 0, 0.3);
+}
+
+/* 冲突提示弹窗样式 */
+.conflict-alert {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--error-color);
+  color: white;
+  padding: 16px 24px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(255, 77, 79, 0.3);
+  z-index: 1000;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  max-width: 400px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 冲突提示动画 */
+.conflict-alert {
+  animation: slideIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -30px);
+    box-shadow: 0 2px 8px rgba(255, 77, 79, 0.2);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+    box-shadow: 0 8px 24px rgba(255, 77, 79, 0.3);
+  }
+}
+
+/* 提示底部进度条 */
+.alert-progress-bar {
+  height: 3px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 2px;
+  animation: progress 3s linear forwards;
+}
+
+@keyframes progress {
+  from {
+    width: 100%;
+  }
+
+  to {
+    width: 0%;
+  }
+}
+
+/* 多提示容器 */
+.alerts-container {
+  position: fixed;
+  top: 30px;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  z-index: 1000;
+}
+
+/* 加载状态 */
+.calendar-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-secondary);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/* 空状态提示 */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  color: var(--text-secondary);
+  font-size: 16px;
+  text-align: center;
+  padding: 40px;
+}
+
+.empty-state-icon {
+  font-size: 64px;
+  margin-bottom: 24px;
+  opacity: 0.5;
+  color: var(--accent-color);
+}
+
+/* 历史记录提示 */
+.history-hint {
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  background-color: var(--primary-color);
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  opacity: 0;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transform: translateY(-30px);
+  pointer-events: none;
+  box-shadow: 0 4px 16px rgba(61, 145, 204, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.history-hint.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* 美化 React Big Calendar 默认样式 */
+.rbc-calendar {
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(30, 54, 99, 0.1);
+  border: 1px solid var(--border-color);
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.rbc-time-view-resources .rbc-header {
+  background-color: var(--light-color);
+  color: var(--text-primary);
+  font-weight: 600;
+  padding: 12px 8px;
+  font-size: 13px;
+  flex: 1;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.rbc-row.rbc-row-resource .rbc-header {
+  
+font-size: 20px;
+}
+
+
+.rbc-time-column {
+  background-color: #fafafa;
+  border-right: 1px solid var(--border-color);
+}
+
+/* 自定义首行 */
+.rbc-time-header.rbc-overflowing {
+  min-height: 142px;
+  margin-right: 14px !important;
+  display: flex !important;
+  flex-direction: row !important;
+}
+/* 原容器 */
+
+
+/* 外层：保持 flex，确保和右侧等高 */
+.rbc-label.rbc-time-header-gutter {
+  display: flex;              /* 保持 flex，不要改成 block */
+  flex-direction: column;     /* 子元素纵向排布 */
+  justify-content: space-between; /* 可以让 spacer 在上，文字在下 */
+  align-items: center;
+  border-right: 0px solid var(--border-color, #ddd);
+  padding: 0;
+  height: 100%;               /* 👈 跟右边保持等高 */
+}
+
+/* 占位子元素（固定高度 60px） */
+.rbc-label.rbc-time-header-gutter .gutter-spacer {
+  min-height: 61px;
+  width: 100%;
+  background-color: #BDD8FF ;
+  border-bottom: 2px solid var(--border-color, #ddd);
+  flex-shrink: 0; /* 避免被压缩 */
+}
+
+/* 显示文字的子元素（竖排 + 颜色） */
+.rbc-label.rbc-time-header-gutter .gutter-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 60px); /* 扣掉上面的占位 */
+  justify-content: center;    /* 主轴居中 */
+  align-items: center;        /* 交叉轴居中 */
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  padding: 0 13px;
+  font-weight: 600;
+  font-size: 15px !important;
+  color: #113e92;          /* 和“工作时间段设置”的主题色一致 */
+  background-color: #BDD8FF ;
+  line-height: 1.2;
+  font-size: 12px;         /* 可调整大小 */
+  border-right: 1px solid #ddd;
+}
+
+
+/* 时间段 */
+.rbc-time-slot {
+  border-bottom: 0px solid #f0f0f0;
+  height: auto;
+  width: 100%;
+  /* 确保时间槽宽度与列宽一致 */
+}
+
+/* 时间段标题 */
+.rbc-time-slot .rbc-label {
+    font-size: 14px;
+}
+
+
+/* 控制所有时间格子（左边gutter + 右边时间格） */
+.rbc-time-slot,
+.rbc-time-gutter.rbc-timeslot-group {
+  height: 28px !important;   /* 每个slot的高度 */
+  
+  line-height: 40px;         /* 让文字居中 */
+}
+
+.rbc-time-gutter .rbc-time-slot {
+  display: flex;
+  align-items: flex-start;  /* 顶部对齐 */
+  justify-content: center;  /* 水平居中（可选） */
+  padding-top: 0;           /* 清除内边距 */
+  line-height: normal;      /* 避免文字被撑大 */
+  font-size: 12px;          /* 按需求调整字体 */
+}
+
+
+.rbc-time-gutter .rbc-time-column {
+  height: 20px;
+  width: 40px;
+}
+
+.rbc-time-view-resources .rbc-day-slot {
+  min-width: 0px;
+}
+
+.rbc-day-slot .rbc-time-column {
+  display: flex !important;
+  flex : 1;
+}
+
+/* 时间段行宽 */
+.rbc-time-column {
+  display: flex;
+  flex: 0 10 auto;
+}
+
+
+/* 确保日期列和内容列宽度一致 */
+.rbc-date-cell,
+.rbc-row-segment {
+  width: 100%;
+}
+
+
+.rbc-today {
+  background-color: rgba(189, 216, 255, 0.2) !important;
+}
+
+.rbc-off-range-bg {
+  background-color: #0d78e4;
+}
+
+.rbc-selected-cell {
+  background-color: rgba(61, 145, 204, 0.2) !important;
+}
+
+.rbc-row-segment {
+  border-radius: auto;
+  overflow: hidden;
+}
+
+
+
+/* 调整事件容器宽度使其动态显示 */
+.rbc-events-container {
+  width: 100% !important;
+  flex: 1;
+  min-width: 0;
+  min-height: 60px;
+}
+
+/* 修正小时文字显示错误 */
+.rbc-label {
+  font-size: 12px;
+  color: var(--text-secondary);
+  padding-right: 8px;
+  text-align: right;
+  min-width: 40px;
+}
+
+/* 为工作时间段添加隐藏式纵向滚动条 */
+.rbc-time-content {
+  overflow-y: auto;
+  scrollbar-width: 80vh;
+  scrollbar-color: var(--light-accent) transparent;
+}
+
+.rbc-time-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.rbc-time-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.rbc-time-content::-webkit-scrollbar-thumb {
+  background-color: var(--light-accent);
+  border-radius: 3px;
+}
+
+.rbc-time-content::-webkit-scrollbar-thumb:hover {
+  background-color: var(--border-color);
+}
+
+/* 修复横向左侧调整图标被遮挡问题 */
+.rbc-addons-dnd-resize-ew-anchor:first-child {
+  z-index: 10;
+}
+
+
