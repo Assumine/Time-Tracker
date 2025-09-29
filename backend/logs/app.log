@@ -1,0 +1,1146 @@
+2025-09-29 09:40:06,548 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/task_status - Status: 404 - Duration: 0.00ms
+2025-09-29 09:40:16,215 - TimeTracker - INFO - API Success: 成功获取前台应用信息
+2025-09-29 09:40:16,216 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/task_status - Status: 200 - Duration: 2.00ms
+2025-09-29 09:40:24,271 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,272 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,273 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,274 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,275 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,275 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,277 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,277 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,279 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,279 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,281 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,281 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,282 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,283 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,285 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,285 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,287 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,287 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,289 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,289 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,291 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,291 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,292 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,292 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,294 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,294 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,295 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,296 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,297 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,297 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,299 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,299 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,301 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,301 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,303 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,303 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,304 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,305 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,306 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,306 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,307 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,308 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,309 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,309 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,310 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,311 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,313 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,313 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,316 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,317 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:24,319 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:24,319 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:33,407 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/apps/list - Status: 404 - Duration: 1.00ms
+2025-09-29 09:40:46,535 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,536 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,537 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,538 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,539 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,540 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,541 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,542 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,543 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,544 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,545 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,546 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,547 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,548 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,550 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,550 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,552 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,553 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,555 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,555 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,557 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,557 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,559 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,560 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,561 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,561 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,563 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,563 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,565 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,566 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,567 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,568 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,569 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,570 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,572 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,572 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,574 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,575 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,577 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,577 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,579 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,579 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,580 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,581 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,582 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,582 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,584 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,584 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,585 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,585 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:40:46,586 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:40:46,587 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:41:05,962 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/apps/list - Status: 404 - Duration: 0.00ms
+2025-09-29 09:41:14,302 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/apps/list - Status: 404 - Duration: 0.00ms
+2025-09-29 09:41:33,530 - TimeTracker - INFO - API Success: 成功获取前台应用信息
+2025-09-29 09:41:33,530 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/task_status - Status: 200 - Duration: 0.00ms
+2025-09-29 09:41:42,474 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/docs - Status: 200 - Duration: 0.00ms
+2025-09-29 09:41:49,925 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/docs?ide_webview_request_time=1759110109906 - Status: 200 - Duration: 0.00ms
+2025-09-29 09:42:13,252 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/@vite/client - Status: 404 - Duration: 0.00ms
+2025-09-29 09:42:17,816 - TimeTracker - INFO - API Success: 成功获取前台应用信息
+2025-09-29 09:42:17,816 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/task_status - Status: 200 - Duration: 0.00ms
+2025-09-29 09:42:25,855 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/apps/list - Status: 404 - Duration: 0.00ms
+2025-09-29 09:49:23,154 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:23,231 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:23,496 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:23,543 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:23,761 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:23,808 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:24,277 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:24,323 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:24,557 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:24,603 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:24,930 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:24,978 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:25,461 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:25,509 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:25,759 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:25,838 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:26,088 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:26,134 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:26,320 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:26,383 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:26,935 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:26,982 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:27,219 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:27,266 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:27,516 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:27,563 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:27,848 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:27,896 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:28,196 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:28,243 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:28,558 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:28,637 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:28,984 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:29,030 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:29,331 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:29,409 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:29,677 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:29,755 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:30,082 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:30,129 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:30,408 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:30,454 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:30,750 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:30,828 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:31,078 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:31,155 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:31,419 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:31,465 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:31,730 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:31,778 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:32,089 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:32,166 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:32,400 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:32,447 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:32,571 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:32,618 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:32,868 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:49:32,946 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:49:56,417 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/apps/list - Status: 404 - Duration: 0.00ms
+2025-09-29 09:51:44,391 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,392 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,393 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,393 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,394 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,395 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,396 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,396 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,397 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,398 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,399 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,399 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,400 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,401 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,402 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,402 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,403 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,404 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,405 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,405 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,407 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,407 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,408 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,408 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,409 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,410 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,411 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,411 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,412 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,412 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,413 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,414 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,415 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,415 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,416 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,417 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,418 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,418 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,419 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,420 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,421 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,421 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,422 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,422 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,423 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,424 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,425 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,425 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,426 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,426 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,428 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,428 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,429 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,429 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,430 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,431 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:51:44,432 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:51:44,432 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,487 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,488 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,489 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,489 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,490 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,490 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,492 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,492 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,493 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,493 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,494 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,495 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,496 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,496 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,497 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,497 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,499 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,499 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,500 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,501 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,502 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,502 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,503 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,504 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,505 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,505 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,506 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,506 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,507 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,507 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,508 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,509 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,510 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,510 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,511 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,511 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,513 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,513 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,514 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,514 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,515 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,516 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,518 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,518 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,519 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,519 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,520 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,520 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,522 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,522 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,523 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,523 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,524 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,525 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,526 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,526 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 09:52:17,527 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 09:52:17,527 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,037 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,037 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,039 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,039 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,040 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,040 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,041 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,042 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,043 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,043 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,044 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,045 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,046 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,046 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,047 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,047 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,048 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,049 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,050 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,050 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,051 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,051 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,052 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,053 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,054 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,054 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,055 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,055 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,056 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,056 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,058 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,058 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,059 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,059 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,060 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,060 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,061 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,062 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,063 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,063 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,064 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,064 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,066 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,066 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,067 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,067 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,068 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,068 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,069 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,070 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,071 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,071 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,072 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,073 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,074 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,074 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:02:35,075 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:02:35,076 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,412 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,413 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,414 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,415 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,416 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,416 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,418 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,418 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,420 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,420 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,421 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,421 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,423 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,423 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,424 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,424 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,426 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,426 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,427 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,427 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,428 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,429 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,430 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,430 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,432 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,432 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,433 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,433 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,434 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,435 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,436 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,436 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,437 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,437 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,438 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,439 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,440 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,440 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,441 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,441 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,442 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,443 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,444 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,444 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,445 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,446 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,447 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,447 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,448 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,448 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,450 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,450 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,451 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,451 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,452 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,453 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:31,454 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:31,454 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:43,364 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:43,411 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:43,647 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:43,725 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:43,931 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:43,978 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:44,196 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:44,463 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:44,714 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:44,762 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:44,965 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:45,013 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:45,217 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:45,249 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:45,532 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:45,579 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:46,097 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:46,144 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:46,379 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:46,426 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:46,663 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:46,710 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:46,991 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:47,039 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:47,292 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:47,339 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:47,560 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:47,606 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:47,938 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:47,969 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:48,252 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:48,331 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:48,536 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:48,584 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:48,817 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:48,897 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:49,163 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:49,209 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:49,380 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:49,426 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:49,752 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:49,799 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:50,003 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:50,081 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:50,375 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:50,422 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:50,609 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:50,656 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:50,812 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:50,844 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:51,126 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:51,205 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:51,410 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:51,457 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:51,660 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:51,707 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:03:51,970 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:03:52,018 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,701 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,702 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,703 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,703 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,704 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,705 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,706 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,706 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,707 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,707 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,708 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,709 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,710 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,710 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,711 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,711 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,712 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,713 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,714 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,714 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,715 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,715 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,716 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,717 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,718 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,718 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,719 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,720 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,721 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,721 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,722 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,722 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,723 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,724 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,725 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,725 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,726 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,727 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,728 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,728 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,729 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,729 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,730 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,731 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,732 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,732 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,733 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,733 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,734 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,734 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,736 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,736 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,737 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,737 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,738 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,739 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,740 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,740 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:05:05,741 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:05:05,741 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,070 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,071 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,072 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,073 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,074 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,074 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,076 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,076 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,078 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,078 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,080 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,080 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,082 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,082 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,084 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,084 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,086 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,087 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,088 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,089 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,090 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,090 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,092 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,092 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,094 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,094 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,095 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,096 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,097 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,098 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,099 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,100 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,101 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,101 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,103 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,103 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,105 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,105 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,107 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,107 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,108 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,109 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,110 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,111 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,112 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,113 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,114 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,114 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,116 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,116 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,118 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,118 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,119 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,120 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,121 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,121 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,123 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,123 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,125 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,125 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:46,127 - TimeTracker - ERROR - 获取应用 UnrealGame|Epic_Games,_Inc. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:46,127 - TimeTracker - ERROR - 检查应用 UnrealGame|Epic_Games,_Inc. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,174 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,175 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,176 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,177 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,179 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,180 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,182 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,182 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,184 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,184 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,186 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,186 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,187 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,188 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,189 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,189 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,191 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,191 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,193 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,193 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,196 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,196 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,198 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,198 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,200 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,200 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,202 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,203 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,204 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,205 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,206 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,207 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,209 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,209 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,211 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,212 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,213 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,214 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,215 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,216 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,217 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,218 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,219 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,219 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,221 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,221 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,223 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,223 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,224 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,225 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,226 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,227 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,228 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,229 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,230 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,230 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,232 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,232 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,234 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,235 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:41:55,236 - TimeTracker - ERROR - 获取应用 UnrealGame|Epic_Games,_Inc. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:41:55,236 - TimeTracker - ERROR - 检查应用 UnrealGame|Epic_Games,_Inc. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,668 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,669 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,670 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,671 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,672 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,673 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,674 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,675 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,677 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,677 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,679 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,679 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,681 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,681 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,682 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,683 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,684 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,685 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,686 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,686 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,688 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,688 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,689 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,690 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,691 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,691 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,692 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,693 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,694 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,695 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,696 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,696 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,698 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,698 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,700 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,700 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,701 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,702 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,703 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,703 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,705 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,705 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,707 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,707 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,709 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,709 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,710 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,711 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,712 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,713 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,714 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,714 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,716 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,716 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,718 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,718 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,719 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,720 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,721 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,722 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:10,723 - TimeTracker - ERROR - 获取应用 UnrealGame|Epic_Games,_Inc. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:10,723 - TimeTracker - ERROR - 检查应用 UnrealGame|Epic_Games,_Inc. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,847 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,847 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,849 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,849 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,851 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,851 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,854 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,854 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,856 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,856 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,858 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,858 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,860 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,860 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,862 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,862 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,864 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,864 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,866 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,866 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,868 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,868 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,870 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,870 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,871 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,872 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,873 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,874 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,875 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,875 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,877 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,877 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,879 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,879 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,881 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,881 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,883 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,883 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,885 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,885 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,887 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,887 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,888 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,889 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,891 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,891 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,892 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,893 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,894 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,895 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,896 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,897 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,898 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,899 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,900 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,901 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,902 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,902 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,904 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,904 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:42:33,906 - TimeTracker - ERROR - 获取应用 UnrealGame|Epic_Games,_Inc. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:42:33,906 - TimeTracker - ERROR - 检查应用 UnrealGame|Epic_Games,_Inc. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,329 - TimeTracker - ERROR - 获取应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,330 - TimeTracker - ERROR - 检查应用 Trae_CN|Beijing_Yinli_Catapult_Technology_Co.,_Ltd. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,331 - TimeTracker - ERROR - 获取应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,331 - TimeTracker - ERROR - 检查应用 Microsoft®_Windows®_Operating_System|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,332 - TimeTracker - ERROR - 获取应用 SQLiteSpy.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,333 - TimeTracker - ERROR - 检查应用 SQLiteSpy.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,334 - TimeTracker - ERROR - 获取应用 Microsoft_Edge|Microsoft_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,335 - TimeTracker - ERROR - 检查应用 Microsoft_Edge|Microsoft_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,336 - TimeTracker - ERROR - 获取应用 Tencent_Upd|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,336 - TimeTracker - ERROR - 检查应用 Tencent_Upd|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,337 - TimeTracker - ERROR - 获取应用 腾讯QQ|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,337 - TimeTracker - ERROR - 检查应用 腾讯QQ|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,339 - TimeTracker - ERROR - 获取应用 Google_Chrome|Google_LLC 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,339 - TimeTracker - ERROR - 检查应用 Google_Chrome|Google_LLC 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,340 - TimeTracker - ERROR - 获取应用 uTools|福州猿力信息科技有限公司 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,341 - TimeTracker - ERROR - 检查应用 uTools|福州猿力信息科技有限公司 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,342 - TimeTracker - ERROR - 获取应用 Firefox|Mozilla_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,342 - TimeTracker - ERROR - 检查应用 Firefox|Mozilla_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,343 - TimeTracker - ERROR - 获取应用 StartMenuExperienceHost.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,344 - TimeTracker - ERROR - 检查应用 StartMenuExperienceHost.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,345 - TimeTracker - ERROR - 获取应用 acs_launcher.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,345 - TimeTracker - ERROR - 检查应用 acs_launcher.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,346 - TimeTracker - ERROR - 获取应用 Steam_Half-Life_Launcher|Valve 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,347 - TimeTracker - ERROR - 检查应用 Steam_Half-Life_Launcher|Valve 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,348 - TimeTracker - ERROR - 获取应用 Steam_Client_WebHelper|Valve_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,348 - TimeTracker - ERROR - 检查应用 Steam_Client_WebHelper|Valve_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,349 - TimeTracker - ERROR - 获取应用 WeGame|Tencent 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,349 - TimeTracker - ERROR - 检查应用 WeGame|Tencent 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,351 - TimeTracker - ERROR - 获取应用 cs2.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,351 - TimeTracker - ERROR - 检查应用 cs2.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,352 - TimeTracker - ERROR - 获取应用 Bandizip|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,352 - TimeTracker - ERROR - 检查应用 Bandizip|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,353 - TimeTracker - ERROR - 获取应用 biliup.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,354 - TimeTracker - ERROR - 检查应用 biliup.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,355 - TimeTracker - ERROR - 获取应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,355 - TimeTracker - ERROR - 检查应用 Jed's_Half-Life_Model_Viewer|Neil_'Jed'_Jedrzejewski 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,356 - TimeTracker - ERROR - 获取应用 Everything|voidtools 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,356 - TimeTracker - ERROR - 检查应用 Everything|voidtools 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,357 - TimeTracker - ERROR - 获取应用 PotPlayer|Kakao 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,358 - TimeTracker - ERROR - 检查应用 PotPlayer|Kakao 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,359 - TimeTracker - ERROR - 获取应用 Archived_Image_Viewer|Bandisoft.com 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,359 - TimeTracker - ERROR - 检查应用 Archived_Image_Viewer|Bandisoft.com 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,360 - TimeTracker - ERROR - 获取应用 Notepad++|Don_HO_don.h@free.fr 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,360 - TimeTracker - ERROR - 检查应用 Notepad++|Don_HO_don.h@free.fr 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,361 - TimeTracker - ERROR - 获取应用 ShadowBot.Shell.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,362 - TimeTracker - ERROR - 检查应用 ShadowBot.Shell.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,363 - TimeTracker - ERROR - 获取应用 DanmakuFactory|tikm.org 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,363 - TimeTracker - ERROR - 检查应用 DanmakuFactory|tikm.org 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,364 - TimeTracker - ERROR - 获取应用 ShanaEncoder.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,365 - TimeTracker - ERROR - 检查应用 ShanaEncoder.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,366 - TimeTracker - ERROR - 获取应用 Deadly_Days:_Roadtrip|Pixelsplit 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,366 - TimeTracker - ERROR - 检查应用 Deadly_Days:_Roadtrip|Pixelsplit 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,367 - TimeTracker - ERROR - 获取应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,368 - TimeTracker - ERROR - 检查应用 QMacro.exe|福建创意嘉和软件有限公司（C）2001-2020 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,369 - TimeTracker - ERROR - 获取应用 Software|福建创意嘉和软件有限公司（C）2001-2017 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,369 - TimeTracker - ERROR - 检查应用 Software|福建创意嘉和软件有限公司（C）2001-2017 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,370 - TimeTracker - ERROR - 获取应用 NVIDIA_App|NVIDIA_Corporation 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,371 - TimeTracker - ERROR - 检查应用 NVIDIA_App|NVIDIA_Corporation 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,372 - TimeTracker - ERROR - 获取应用 オトカノ.exe 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,372 - TimeTracker - ERROR - 检查应用 オトカノ.exe 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,373 - TimeTracker - ERROR - 获取应用 UnrealGame|Epic_Games,_Inc. 的冷却天数失败: no such table: app_identifiers
+2025-09-29 10:43:40,374 - TimeTracker - ERROR - 检查应用 UnrealGame|Epic_Games,_Inc. 是否有黑名单历史失败: no such column: is_blocked
+2025-09-29 10:43:40,376 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 49.00ms
+2025-09-29 10:45:00,534 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 38.05ms
+2025-09-29 11:27:52,884 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:27:52,885 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 11:27:52,888 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:27:52,889 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 11:27:54,752 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:27:54,753 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 11:28:24,687 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 15.00ms
+2025-09-29 11:28:24,759 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 72.00ms
+2025-09-29 11:28:25,431 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 295.00ms
+2025-09-29 11:28:25,493 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 325.99ms
+2025-09-29 11:28:42,355 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:28:42,358 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:29:16,444 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 47.00ms
+2025-09-29 11:29:32,187 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 48.00ms
+2025-09-29 11:30:51,017 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 37.00ms
+2025-09-29 11:31:13,755 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 37.96ms
+2025-09-29 11:31:23,059 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 4.00ms
+2025-09-29 11:31:23,062 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:32:50,991 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 1.84ms
+2025-09-29 11:32:50,995 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:34:01,147 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 188.24ms
+2025-09-29 11:34:01,274 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 283.11ms
+2025-09-29 11:34:01,757 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/favicon.ico - Status: 404 - Duration: 0.00ms
+2025-09-29 11:34:28,502 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 8380.05ms
+2025-09-29 11:34:28,511 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 8451.26ms
+2025-09-29 11:34:28,731 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/favicon.ico - Status: 404 - Duration: 0.00ms
+2025-09-29 11:36:10,201 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 2483.82ms
+2025-09-29 11:36:10,244 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 41.00ms
+2025-09-29 11:36:10,604 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 0.00ms
+2025-09-29 11:36:10,606 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 0.00ms
+2025-09-29 11:36:10,608 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 4.00ms
+2025-09-29 11:36:10,609 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:36:10,650 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.00ms
+2025-09-29 11:36:10,697 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 46.00ms
+2025-09-29 11:36:19,136 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:36:19,137 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:36:19,180 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 45.59ms
+2025-09-29 11:36:19,229 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 47.59ms
+2025-09-29 11:36:30,989 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:36:30,990 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:36:31,035 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 49.00ms
+2025-09-29 11:36:31,083 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 46.51ms
+2025-09-29 11:37:28,969 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 48.00ms
+2025-09-29 11:37:45,429 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:37:45,494 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 67.61ms
+2025-09-29 11:37:45,525 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 1.99ms
+2025-09-29 11:37:45,577 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 53.54ms
+2025-09-29 11:37:53,819 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 17.00ms
+2025-09-29 11:37:53,871 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 11:37:53,897 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 95.86ms
+2025-09-29 11:37:53,952 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 52.57ms
+2025-09-29 11:57:18,648 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:18,653 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 11:57:19,622 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:57:19,624 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 3.12ms
+2025-09-29 11:57:19,627 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:57:19,628 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.60ms
+2025-09-29 11:57:20,170 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:20,175 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:24,176 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:24,180 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 11:57:25,953 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:57:25,954 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:25,956 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 11:57:25,957 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 11:57:29,380 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 11:57:29,384 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 11:57:30,488 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 11:57:30,492 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 11:57:37,281 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 0.00ms
+2025-09-29 11:57:37,282 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 1.00ms
+2025-09-29 11:57:37,283 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1.00ms
+2025-09-29 11:57:37,284 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 1.00ms
+2025-09-29 11:57:37,287 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:57:37,288 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 11:57:37,351 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 67.00ms
+2025-09-29 11:57:37,417 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 64.57ms
+2025-09-29 11:57:49,054 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 64.59ms
+2025-09-29 11:57:49,123 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 66.00ms
+2025-09-29 11:58:19,066 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 66.00ms
+2025-09-29 12:01:19,843 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 65.00ms
+2025-09-29 12:01:19,922 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 77.00ms
+2025-09-29 12:01:49,852 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 67.00ms
+2025-09-29 12:02:02,941 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 4.00ms
+2025-09-29 12:02:02,942 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 5.00ms
+2025-09-29 12:02:03,009 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 72.00ms
+2025-09-29 12:02:03,079 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 69.00ms
+2025-09-29 12:04:37,895 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.58ms
+2025-09-29 12:04:52,218 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 38.00ms
+2025-09-29 12:05:08,174 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 91.08ms
+2025-09-29 12:05:08,217 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 41.00ms
+2025-09-29 12:05:38,131 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 41.00ms
+2025-09-29 12:06:08,126 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.06ms
+2025-09-29 12:06:38,131 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.00ms
+2025-09-29 12:07:08,126 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 44.00ms
+2025-09-29 12:07:33,732 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 12:07:33,733 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 3.00ms
+2025-09-29 12:07:33,781 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 52.00ms
+2025-09-29 12:07:33,833 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 51.00ms
+2025-09-29 12:12:32,573 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 52.00ms
+2025-09-29 12:12:46,586 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 49.63ms
+2025-09-29 12:13:58,993 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 50.00ms
+2025-09-29 12:13:59,047 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 51.00ms
+2025-09-29 12:14:28,998 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 51.09ms
+2025-09-29 12:14:35,797 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 79.41ms
+2025-09-29 12:14:35,857 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 59.00ms
+2025-09-29 12:14:48,106 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 68.28ms
+2025-09-29 12:18:54,171 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 58.00ms
+2025-09-29 12:19:13,758 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 57.57ms
+2025-09-29 13:26:20,969 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 52.00ms
+2025-09-29 13:26:21,021 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 51.00ms
+2025-09-29 13:26:50,973 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 53.00ms
+2025-09-29 13:27:04,133 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 109.57ms
+2025-09-29 13:27:04,197 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 13:27:21,313 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 74.03ms
+2025-09-29 13:27:21,376 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 60.00ms
+2025-09-29 13:27:54,049 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 58.13ms
+2025-09-29 14:04:02,505 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 49.00ms
+2025-09-29 14:04:02,557 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 49.54ms
+2025-09-29 14:04:52,342 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 11623.47ms
+2025-09-29 14:04:55,468 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 2955.51ms
+2025-09-29 14:05:21,132 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 10507.98ms
+2025-09-29 14:05:45,971 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 5385.81ms
+2025-09-29 14:06:12,559 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 9955.50ms
+2025-09-29 14:06:12,772 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 82.57ms
+2025-09-29 14:06:36,370 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 57.00ms
+2025-09-29 14:07:05,387 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 62.55ms
+2025-09-29 14:07:36,315 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:08:06,315 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:08:36,320 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:09:07,908 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 10302.81ms
+2025-09-29 14:09:08,372 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 262.71ms
+2025-09-29 14:09:08,377 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 14:09:08,449 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 71.00ms
+2025-09-29 14:09:08,453 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:09:19,383 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 64.00ms
+2025-09-29 14:09:38,747 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 701.45ms
+2025-09-29 14:09:50,552 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 11523.66ms
+2025-09-29 14:09:55,342 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4586.39ms
+2025-09-29 14:10:20,390 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 68.00ms
+2025-09-29 14:10:50,387 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 70.00ms
+2025-09-29 14:11:20,382 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 68.00ms
+2025-09-29 14:12:02,228 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 11780.32ms
+2025-09-29 14:12:02,254 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 7196.56ms
+2025-09-29 14:12:02,338 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 81.00ms
+2025-09-29 14:12:21,179 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 10930.49ms
+2025-09-29 14:12:21,860 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1361.73ms
+2025-09-29 14:12:25,873 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1007.36ms
+2025-09-29 14:12:58,757 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 8305.78ms
+2025-09-29 14:12:58,821 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3889.66ms
+2025-09-29 14:13:20,402 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 77.00ms
+2025-09-29 14:13:24,912 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 76.98ms
+2025-09-29 14:13:53,395 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 81.00ms
+2025-09-29 14:13:54,846 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 14:14:24,839 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:14:53,404 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 80.00ms
+2025-09-29 14:14:54,914 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 80.14ms
+2025-09-29 14:15:24,925 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 81.13ms
+2025-09-29 14:15:53,323 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:15:54,916 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 82.31ms
+2025-09-29 14:16:24,930 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 84.82ms
+2025-09-29 14:16:53,409 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 92.01ms
+2025-09-29 14:16:54,921 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 86.97ms
+2025-09-29 14:17:24,839 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 14:17:53,406 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 86.00ms
+2025-09-29 14:17:54,922 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 85.73ms
+2025-09-29 14:18:24,929 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 87.23ms
+2025-09-29 14:18:53,414 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 88.01ms
+2025-09-29 14:18:54,932 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 90.70ms
+2025-09-29 14:19:24,847 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 14:19:53,412 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 91.00ms
+2025-09-29 14:19:54,847 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:20:24,840 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:20:53,407 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 92.01ms
+2025-09-29 14:20:54,847 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:21:24,849 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.08ms
+2025-09-29 14:21:53,403 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 91.16ms
+2025-09-29 14:21:54,937 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 93.14ms
+2025-09-29 14:22:24,843 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 14:45:05,825 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 66.00ms
+2025-09-29 14:45:05,891 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 63.27ms
+2025-09-29 14:45:35,083 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 11835.31ms
+2025-09-29 14:45:36,926 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1062.70ms
+2025-09-29 14:45:40,970 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 5752.13ms
+2025-09-29 14:45:51,596 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 78.00ms
+2025-09-29 14:46:05,832 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 70.00ms
+2025-09-29 14:46:22,389 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 80.27ms
+2025-09-29 14:47:01,948 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 9532.45ms
+2025-09-29 14:47:23,616 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1145.63ms
+2025-09-29 14:47:51,597 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 75.49ms
+2025-09-29 14:48:21,590 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 79.29ms
+2025-09-29 14:48:52,388 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 65.09ms
+2025-09-29 14:49:22,328 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:49:53,387 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 65.54ms
+2025-09-29 14:50:53,313 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:51:53,343 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 26.00ms
+2025-09-29 14:52:53,321 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 14:53:01,380 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 63.47ms
+2025-09-29 14:53:01,452 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 70.00ms
+2025-09-29 15:02:41,500 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 65.10ms
+2025-09-29 15:02:41,505 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:02:47,133 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 66.70ms
+2025-09-29 15:03:17,815 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.01ms
+2025-09-29 15:03:17,869 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 52.01ms
+2025-09-29 15:03:20,401 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:03:20,405 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:03:24,126 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:03:24,130 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:03:49,479 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:03:49,588 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 1522.70ms
+2025-09-29 15:03:50,493 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:03:50,557 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 766.21ms
+2025-09-29 15:03:56,073 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:03:56,075 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 15:03:56,077 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:03:56,078 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 15:04:00,269 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:04:00,270 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 3.00ms
+2025-09-29 15:04:00,272 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:04:00,273 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 15:04:18,331 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:04:26,393 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 68.00ms
+2025-09-29 15:04:53,330 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:04:53,332 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 4.00ms
+2025-09-29 15:04:53,335 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:04:53,336 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 3.00ms
+2025-09-29 15:04:54,309 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:04:54,313 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 15:05:39,646 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/status - Status: 404 - Duration: 0.00ms
+2025-09-29 15:05:39,648 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/status - Status: 404 - Duration: 1.00ms
+2025-09-29 15:05:40,091 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/status - Status: 404 - Duration: 0.00ms
+2025-09-29 15:05:57,495 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 167.70ms
+2025-09-29 15:06:24,691 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1621.81ms
+2025-09-29 15:06:25,469 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:06:25,565 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 1359.70ms
+2025-09-29 15:06:27,047 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:06:27,126 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 1451.54ms
+2025-09-29 15:06:32,097 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:06:32,145 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 1119.81ms
+2025-09-29 15:06:33,692 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 8705.05ms
+2025-09-29 15:06:51,334 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 0.00ms
+2025-09-29 15:06:51,336 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1.00ms
+2025-09-29 15:06:51,336 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 1.00ms
+2025-09-29 15:06:51,337 - TimeTracker - INFO - API Request: OPTIONS http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 2.00ms
+2025-09-29 15:06:51,338 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\python\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files (x86)\python\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-29 15:06:51,347 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 5.00ms
+2025-09-29 15:06:51,348 - TimeTracker - INFO - API Request: POST http://127.0.0.1:30022/api/settings - Status: 200 - Duration: 6.00ms
+2025-09-29 15:06:51,419 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 82.00ms
+2025-09-29 15:06:51,534 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 113.00ms
+2025-09-29 15:10:32,078 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 39.00ms
+2025-09-29 15:10:32,120 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 39.55ms
+2025-09-29 15:10:32,984 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:10:32,985 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 15:10:32,987 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:10:32,988 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 2.00ms
+2025-09-29 15:11:03,195 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 44.00ms
+2025-09-29 15:11:03,196 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 44.00ms
+2025-09-29 15:11:03,925 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:11:03,925 - TimeTracker - INFO - API Success: 成功获取日志记录
+2025-09-29 15:11:03,927 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 3.00ms
+2025-09-29 15:11:03,928 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/logs - Status: 200 - Duration: 4.00ms
+2025-09-29 15:11:05,565 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 15:11:05,606 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 44.00ms
+2025-09-29 15:14:54,790 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.00ms
+2025-09-29 15:15:34,541 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 48.00ms
+2025-09-29 15:17:13,400 - TimeTracker - INFO - API Request: GET http://localhost:30022/?ide_webview_request_time=1759130233070 - Status: 404 - Duration: 0.00ms
+2025-09-29 15:17:13,434 - TimeTracker - INFO - API Request: GET http://localhost:30022/@vite/client - Status: 404 - Duration: 0.00ms
+2025-09-29 15:25:04,688 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 40.00ms
+2025-09-29 15:25:04,730 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 40.00ms
+2025-09-29 15:25:09,466 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 41.00ms
+2025-09-29 15:25:09,510 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 42.96ms
+2025-09-29 15:25:14,694 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 47.00ms
+2025-09-29 15:25:14,739 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 43.00ms
+2025-09-29 15:25:42,499 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 2260.29ms
+2025-09-29 15:25:52,247 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 12024.76ms
+2025-09-29 16:50:23,722 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 10156.87ms
+2025-09-29 16:50:29,168 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 5257.52ms
+2025-09-29 17:00:49,630 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 63.06ms
+2025-09-29 17:01:19,662 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 11421.55ms
+2025-09-29 17:01:24,054 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4187.39ms
+2025-09-29 17:03:20,687 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1437.89ms
+2025-09-29 17:03:20,771 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 1505.99ms
+2025-09-29 17:07:28,058 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 21.00ms
+2025-09-29 17:09:12,609 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 6988.44ms
+2025-09-29 17:16:51,330 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 28.00ms
+2025-09-29 17:17:19,197 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 27.00ms
+2025-09-29 17:17:41,344 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 35.00ms
+2025-09-29 17:18:12,603 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 17:18:16,678 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 3.00ms
+2025-09-29 17:18:42,487 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 28.00ms
+2025-09-29 17:19:03,407 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 29.00ms
+2025-09-29 17:21:42,282 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 7760.02ms
+2025-09-29 17:21:50,203 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 7720.92ms
+2025-09-29 17:23:44,432 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4141.36ms
+2025-09-29 17:23:44,464 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 30.00ms
+2025-09-29 17:23:49,362 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 4.00ms
+2025-09-29 17:23:49,393 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 30.00ms
+2025-09-29 17:24:05,272 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 30.55ms
+2025-09-29 17:24:12,434 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 31.46ms
+2025-09-29 17:24:12,468 - TimeTracker - INFO - API Request: GET http://127.0.0.1:30022/api/apps/list - Status: 200 - Duration: 31.68ms
